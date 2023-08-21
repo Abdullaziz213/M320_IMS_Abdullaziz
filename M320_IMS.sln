@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M320_IMS", "M320_IMS\M320_IMS.csproj", "{99261857-1E21-4E4D-A669-BCC67C0B4A6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OO_Functions", "OO_Functions\OO_Functions.csproj", "{A8224C8D-C357-4D33-A821-9B9DCD735F33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{99261857-1E21-4E4D-A669-BCC67C0B4A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99261857-1E21-4E4D-A669-BCC67C0B4A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99261857-1E21-4E4D-A669-BCC67C0B4A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8224C8D-C357-4D33-A821-9B9DCD735F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8224C8D-C357-4D33-A821-9B9DCD735F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8224C8D-C357-4D33-A821-9B9DCD735F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8224C8D-C357-4D33-A821-9B9DCD735F33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

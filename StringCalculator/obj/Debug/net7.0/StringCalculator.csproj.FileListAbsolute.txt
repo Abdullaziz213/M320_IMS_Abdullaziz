@@ -1,0 +1,5 @@
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfo.cs
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator\obj\Debug\net7.0\StringCalculator.csproj.CoreCompileInputs.cache

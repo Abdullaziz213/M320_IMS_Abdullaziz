@@ -6,25 +6,57 @@ using System.Threading.Tasks;
 
 namespace Browsersimulator
 {
-    internal class Simulator
+    public class Simulator
     {
+
+        private StringStack stack = new StringStack();
+
+        private string currentUrl = "";
         public void Run()
         {
             while (true)
             {
             Console.Write("Geben Sie eine URL ein: ");
             string url = Console.ReadLine();
-                if (url == "e")
+                switch (url)
                 {
-                    break;
+                    case "e":
+                        break;
+                    case "p":
+                        stack.Pop();
+                        break;
+                    case "f":
+
+                    default:
+                        BrowseUrl(url);
+                        break;
                 }
-            BrowseUrl(url);
+        
             }
         }
 
-        public void BrowseUrl(string url)
+        private void Undo()
         {
-            Console.WriteLine($"Lade URL: {url}");
+            if (stack.Count > 0)
+            {
+                stack.Pop();
+            }
+            else
+            {
+                Console.WriteLine("Diese Funktion ist ");
+            }
+        }
+
+
+        private void Redo()
+        {
+            if(fowardStack.Count > 0)
+            {
+                historyStack.Push(url);
+                fowardStack.Clear();
+            }
+            currentUrl = url;
+            Console.WriteLine($"Loading...... {url}");
         }
     }
 }

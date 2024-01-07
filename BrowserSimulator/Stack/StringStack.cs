@@ -13,7 +13,7 @@ namespace Browsersimulator
             index = 0;
         }
 
-        public void Push(string value)
+        public void Push(T item)
         {
             if (IsFull)
             {
@@ -24,7 +24,7 @@ namespace Browsersimulator
             values[index++] = value;
         }
 
-        public string Pop()
+        public T Pop()
         {
             if (IsEmpty)
             {
@@ -35,7 +35,7 @@ namespace Browsersimulator
             return values[--index];
         }
 
-        public string Peek()
+        public T Peek()
         {
             if (IsEmpty)
             {
@@ -46,7 +46,7 @@ namespace Browsersimulator
             return values[index - 1];
         }
 
-        public void Swap()
+        public T Swap()
         {
             if (index < 2)
             {
@@ -59,7 +59,7 @@ namespace Browsersimulator
             values[index - 2] = temp;
         }
 
-        public void Clear()
+        public T Clear()
         {
             Array.Clear(values, 0, values.Length);
             index = 0;

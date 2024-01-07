@@ -1,0 +1,6 @@
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\obj\Debug\net7.0\StringCalculator.Tests.csproj.AssemblyReference.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\obj\Debug\net7.0\StringCalculator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\obj\Debug\net7.0\StringCalculator.Tests.AssemblyInfoInputs.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\obj\Debug\net7.0\StringCalculator.Tests.AssemblyInfo.cs
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\StringCalculator\StringCalculator.Tests\obj\Debug\net7.0\StringCalculator.Tests.csproj.CoreCompileInputs.cache

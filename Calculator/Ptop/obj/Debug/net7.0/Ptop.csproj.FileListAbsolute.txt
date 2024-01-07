@@ -1,0 +1,15 @@
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\bin\Debug\net7.0\Ptop.exe
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\bin\Debug\net7.0\Ptop.deps.json
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\bin\Debug\net7.0\Ptop.runtimeconfig.json
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\bin\Debug\net7.0\Ptop.dll
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\bin\Debug\net7.0\Ptop.pdb
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.csproj.AssemblyReference.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.AssemblyInfoInputs.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.AssemblyInfo.cs
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.csproj.CoreCompileInputs.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.dll
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\refint\Ptop.dll
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.pdb
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\Ptop.genruntimeconfig.cache
+C:\Users\Abdullaziz\OneDrive\Dokumente\Module\M320\Visual_Studio_Code\Ptop\Ptop\obj\Debug\net7.0\ref\Ptop.dll
